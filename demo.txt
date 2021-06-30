@@ -1,2 +1,0 @@
-This a txt file for demo practice.
-now its time to connect jenkins
