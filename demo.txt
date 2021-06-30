@@ -1,2 +1,2 @@
 This a txt file for demo practice.
-now time to connect jenkins
+now its time to connect jenkins
